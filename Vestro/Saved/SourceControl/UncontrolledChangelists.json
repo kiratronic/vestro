@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/londo/Desktop/Documents/GitHub/vestro/Vestro/Content/Recovery/Planets/PlanetSand.umap",
-				"C:/Users/londo/Desktop/Documents/GitHub/vestro/Vestro/Content/BP_Astronaunt.uasset",
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/Planets/PlanetSand.umap",
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/Planets/MI_Sand.uasset",
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/MI_Star.uasset",
@@ -29,6 +27,9 @@
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/g4.uasset",
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/PC_Astronaunt.uasset",
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/Astronaunts/Beta/MidGrey.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/rings_Mat1.uasset",
+				"C:/Users/londo/Desktop/Documents/GitHub/vestro/Vestro/Content/Recovery/Planets/PlanetSand.umap",
+				"C:/Users/londo/Desktop/Documents/GitHub/vestro/Vestro/Content/BP_Astronaunt.uasset",
 				"C:/Users/kira milkyway/Documents/GitHub/vestro/Vestro/Content/Recovery/Astronaunts/Beta/craft_001.uasset"
 			]
 		}
